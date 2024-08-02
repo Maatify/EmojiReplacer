@@ -1,10 +1,12 @@
 <?php
 /**
- * Created by Maatify.dev
- * User: Maatify.dev
- * Date: 2024-08-02
- * Time: 11:13 PM
- * https://www.Maatify.dev
+ * @PHP       Version >= 8.0
+ * @copyright ©2024 Maatify.dev
+ * @author    Mohamed Abdulalim (megyptm) <mohamed@maatify.dev>
+ * @since     2024-08-02 11:13 PM
+ * @link      https://www.maatify.dev Maatify.com
+ * @link      https://github.com/Maatify/EmojiConverter  view project on GitHub
+ * @Maatify   EmojiReplacer :: EmojiConverter
  */
 
 namespace Maatify\Emoji;
