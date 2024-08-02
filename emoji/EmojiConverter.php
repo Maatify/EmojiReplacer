@@ -7,8 +7,6 @@
  * https://www.Maatify.dev
  */
 
-
-
 namespace Maatify\Emoji;
 
 class EmojiConverter

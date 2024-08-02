@@ -1,7 +1,7 @@
 {
   "name": "maatify/emoji-replacer",
   "description": "maatify.com",
-  "version": "1.0.0001",
+  "version": "1.0.0002",
   "type": "library",
   "keywords": [
     "PHP",
@@ -56,6 +56,7 @@
     }
   },
   "require": {
+    "php": ">=8.0",
     "ext-mbstring": "*"
   }
 }
