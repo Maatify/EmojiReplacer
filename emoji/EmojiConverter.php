@@ -5,7 +5,7 @@
  * @author    Mohamed Abdulalim (megyptm) <mohamed@maatify.dev>
  * @since     2024-08-02 11:13 PM
  * @link      https://www.maatify.dev Maatify.com
- * @link      https://github.com/Maatify/EmojiConverter  view project on GitHub
+ * @link      https://github.com/Maatify/EmojiReplacer  view project on GitHub
  * @Maatify   EmojiReplacer :: EmojiConverter
  */
 
